@@ -6,8 +6,7 @@ import csv
 master_List = []
 
 
-#make_Chart is strictly an output function (and possibily an inefficient)
-#one, this doesn't mean anything for the actual operation of the MC alg
+#make_Chart is strictly an output function, no MC Alg functionality
 def make_Chart(master_List):
 	"""
 	make_Chart(master_List)
